@@ -10,4 +10,6 @@ public abstract class Token {
     public void setPoints(int points) {
         Points = points;
     }
+
+
 }
